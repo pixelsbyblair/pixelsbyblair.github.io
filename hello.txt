@@ -1,5 +1,0 @@
-What is GIT icons:
-U = Untracked, Git has never heard of this before
-A = Index Added, You get A when you STAGE it for the first time
-M = Modified, this file has been changed.
-D = Deleted, you're getting rid of this with Git
